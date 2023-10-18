@@ -1,0 +1,10 @@
+.button {
+    color: 109, 103, 103;
+    background-color: #c754b8ee;
+    padding: 10px 5px;
+    width: 20%;
+    border: 2px solid #969696;
+    text-align: center;
+    border-radius: 15px;
+    font-family: Lato, sans-serif;
+  }

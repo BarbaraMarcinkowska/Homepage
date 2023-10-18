@@ -1,0 +1,14 @@
+.nav__list {
+    list-style: none;
+  }
+  .nav__link {
+    color: rgb(203, 26, 206);
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  .nav__link:focus {
+    outline: 2px solid red;
+  }
+  .nav__link:hover {
+    color: #23b912;
+  }
