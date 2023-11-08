@@ -1,5 +1,6 @@
 # Barbara Marcinkowska - moja strona
-![og:image](https://github.com/BarbaraMarcinkowska/Homepage/blob/main/images/share.png?raw=true) 
+ [og:image](https://github.com/BarbaraMarcinkowska/Homepage/blob/main/images/share.png?raw=true)
+
 ## DEMO 
 https://barbaramarcinkowska.github.io/Homepage/ 
 
