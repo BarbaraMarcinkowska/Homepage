@@ -1,14 +1,17 @@
-console.log("Cześć to ja Basia probuje coś działać");
+function welcome () {
+  console.log("Cześć to ja Basia probuje coś działać");
+}
+
+welcome(); 
 
 let button = document.querySelector(".button");
 let body = document.querySelector(".body");
 let nextColor = document.querySelector(".nextColor");
 
- 
 button.addEventListener("click", () => {
-    body.classList.toggle ("inerBody");
+  body.classList.toggle ("inerBody");
 
-    nextColor.innerText = body.classList.contains("inerBody") ? "ciemny" : "jasny";
+  nextColor.innerText = body.classList.contains("inerBody") ? "ciemny" : "jasny";
 });
 
   // if (body.classList.contains("body")) {
